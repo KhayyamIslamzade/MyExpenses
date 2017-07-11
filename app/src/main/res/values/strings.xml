@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Expenses</string>
+    <string name="ekle">Ekle</string>
+    <string name="harcama">Harcama</string>
+    <string name="arsiv">Arşiv</string>
+    <string name="verileri_sil">Verileri Sil</string>
+    <string name="add">Add</string>
+    <string name="exit">Exit</string>
+    <string name="time">Time</string>
+</resources>

@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ArchiveActivity">
+    
+    <item
+        android:id="@+id/delete"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Sil"
+        android:icon="@android:drawable/ic_menu_delete"/>
+
+    <item
+        android:id="@+id/edit"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Duzenle"
+        android:icon="@android:drawable/ic_menu_edit"/>
+
+
+
+</menu>
